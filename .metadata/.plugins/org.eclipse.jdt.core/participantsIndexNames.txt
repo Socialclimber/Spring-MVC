@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2964807352.index
+/SpringRedirect/src
+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3507319282.index
+/SpringStaticPageExample/src
+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3046372851.index
+/ExceptionHandlingExample/src
+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3019353362.index
+/HelloWeb/src
+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/699820543.index
+/HelloWeb/src
+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4251654584.index
+/HelloWeb2/src

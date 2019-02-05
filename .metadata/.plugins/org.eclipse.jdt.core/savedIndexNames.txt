@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+/home/socialclimber/Spring-MVC/.metadata/.plugins/org.eclipse.jdt.core
+379988615.index
+678024114.index
+2711363658.index
+1881136286.index
+3460048997.index
+4140905786.index
+180614749.index
+252006578.index
+3540341621.index
